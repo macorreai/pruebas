@@ -22,12 +22,14 @@
     height: 25%;
     padding-left: 100px;
     padding-right: 100px;
+    align-items: center;
 }
 
 .contenido{
     display: flex;
     flex-direction: column;
     border-right: #333333 50px solid;
+    
 }
 a{
     color: white;
